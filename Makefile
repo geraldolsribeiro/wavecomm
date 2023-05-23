@@ -10,3 +10,6 @@ css:
 
 img:
 	cp img/* docs/img/
+
+init:
+	npm install
