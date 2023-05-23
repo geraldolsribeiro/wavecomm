@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+h1 {
+  @apply text-2xl mt-8 text-cyan-500;
+}
+
+h2 {
+  @apply text-xl my-4 text-cyan-500;
+}
+
+p {
+  @apply my-2 text-slate-900;
+}
